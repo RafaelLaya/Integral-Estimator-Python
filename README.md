@@ -8,7 +8,7 @@ At all times the program assumes the function provided is of continous behaviour
 
 You will need py_expression_eval to run this program. I used version 0.3.4
 
-The source code was originally written using an online code editor called repl.it which is what we used for the CS121 class. At the moment of this writing this is exactly how the project was submitted (except for a memory issue that I just fixed).
+The source code was originally written using an online code editor called repl.it which is what we used for the CS121 class. At the moment of this writing this is exactly how the project was submitted (except for a memory issue that I just fixed). You can also run it online at repl.it
 https://repl.it/@rafaellaya/CS121ProjectFixedMemory
 
 This is the original version: https://repl.it/@rafaellaya/CS121-Final-Project

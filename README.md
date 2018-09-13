@@ -6,7 +6,7 @@ The instructions to use the program are simple: Download the .py file and then r
 
 You will need py_expression_eval to run this program.
 
-The source code was originally written using an online code editor called repl.it which is what we used for the CS121 class. At the moment of this writing this is exactly how the project was submitted.
+The source code was originally written using an online code editor called repl.it which is what we used for the CS121 class. At the moment of this writing this is exactly how the project was submitted (except for a memory issue that I just fixed).
 https://repl.it/@rafaellaya/CS121ProjectFixedMemory
 
 Enjoy!

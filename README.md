@@ -6,6 +6,8 @@ The instructions to use the program are simple: Download the .py file and then r
 
 At all times the program assumes the function provided is of continous behaviour. If using the tolerance option then it is also assumed that the function is either always increasing or decreasing in the desired interval. Improper integrals are not supported.
 
+This program uses the algorithms that students usually learn in a regular calculus II classroom.
+
 You will need py_expression_eval to run this program. I used version 0.3.4
 
 The source code was originally written using an online code editor called repl.it which is what we used for the CS121 class. At the moment of this writing this is exactly how the project was submitted (except for a memory issue that I just fixed). You can also run it online at repl.it

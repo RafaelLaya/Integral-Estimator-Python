@@ -19,5 +19,5 @@ Enjoy!
 
 The following is a link to a youtube video of the integrator
 
-[![Alt text for your video](https://i.ytimg.com/vi/fyCEGyS0wiY/hqdefault.jpg)](https://youtu.be/fyCEGyS0wiY)
+[![LINK TO VIDEO](https://i.ytimg.com/vi/fyCEGyS0wiY/hqdefault.jpg)](https://youtu.be/fyCEGyS0wiY)
 

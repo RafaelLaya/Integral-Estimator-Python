@@ -1,6 +1,6 @@
 # Integral-Estimator-Python
 
-This is a final project for an introductory to programming class under the quarterly system. The class is CS121 and it is taught in python. 
+This is a final project for an introductory to programming class under the quarterly system (summer 2018). The class is CS121 and it is taught in python. 
 
 The instructions to use the program are simple: Download the .py file and then run. This is confirmed to run on python 3.5 and 3.6. The program itself has instructions on its own usage.
 

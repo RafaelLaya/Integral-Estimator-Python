@@ -14,7 +14,7 @@ Enjoy!
 
 The following is a link to a youtube video of the integrator
 
-This work was submitted as a final project about 6 or 7 weeks of programming experience.
+This work was submitted as a final project after about 6 or 7 weeks of programming experience.
 
 [![LINK TO VIDEO](https://i.ytimg.com/vi/fyCEGyS0wiY/hqdefault.jpg)](https://youtu.be/fyCEGyS0wiY)
 

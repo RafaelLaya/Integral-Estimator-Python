@@ -1,4 +1,4 @@
-# Integral-Estimator-Python
+# Python Integral Estimator
 
 This is a final project for an introductory to programming class under the quarterly system (summer 2018). The class is CS121 and it is taught in python. 
 
